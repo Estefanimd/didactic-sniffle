@@ -1,1 +1,1 @@
-https://github.com/usuario/repositorio.git
+git@github.com:usuario/repositorio.git
